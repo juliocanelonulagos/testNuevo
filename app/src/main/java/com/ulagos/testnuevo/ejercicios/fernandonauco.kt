@@ -1,5 +1,4 @@
 package com.ulagos.testnuevo.ejercicios
-
 fun main() {
     val inmutable = "soy inmutable"
     var mutable = "soy mutable"
